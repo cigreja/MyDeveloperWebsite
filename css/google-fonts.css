@@ -5,6 +5,11 @@
 
 
 @font-face {
-    font-font:Anton;
-    src: url(../fonts/Anton/Anton-Regular.ttf) format("truetype");
+    font-font: 'Anton';
+    src: url(../fonts/Anton/Anton-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-font: 'Bangers';
+    src: url(../fonts/Bangers/Bangers-Regular.ttf) format('truetype');
 }
