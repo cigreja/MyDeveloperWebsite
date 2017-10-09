@@ -1,68 +1,28 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title> Cigreja | Developer </title>
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/responsive.css">
-        <meta name="viewport"  content="width=device-width, initial-scale=1.0">
+<?php
+include 'includes/header.php';
+include 'includes/navigation.php';
+?>
 
-        <!-- Bootstrap -->
-        <link rel="stylesheet" href="css/cyborg.css">
+    <section id="primary">
+        <h3>Contact Information</h3>
+        <p>
+            There are many ways you can contact me.
+            I have email, Skype, Facebook, Twitter, Linkedin, and GitHub.
+            Any of these methods that you would like are fine.
+        </p>
 
-    </head>
-    <body>
-        <header>
-            <div id="logo">
-                <a href="index.html">
-                    <h1>Cigreja</h1>
-                    <h2> Developer </h2>
-                </a>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="index.html" >Home</a></li>
-                    <li><a href="projects.html">Projects</a></li>
-                    <li><a href="about.html"  >About</a></li>
-                    <li><a href="contact.html" class="selected" >Contact</a></li>
-                </ul>
-            </nav>
-        </header>
-        <div id="wrapper">
-            <section id="primary">
-                <h3>Contact Information</h3>
-                <p>
-                    There are many ways you can contact me. 
-                    I have email, Skype, Facebook, Twitter, Linkedin, and GitHub. 
-                    Any of these methods that you would like are fine. 
-                </p>
-                   
-            </section >
-                
-            <section id="secondary">
-                <h3>Contact Details</h3>
-                <ul class="contact-info">
-                    <!-- I blocked out the phone number, I don't want phone calls -->
-                    <!-- <li class="phone"><a href="tel:555-6426">555-6426</a></li> -->
-                    <li class="mail"><a href="mailto:cigreja@live.com">cigreja@live.com</a></li>
-                    <li class="twitter"><a href="https://twitter.com/CarlosAIgreja">@cigrejacom</a></li>
-                </ul>
-            </section>
-            <footer>
-                <a href="https://twitter.com/cigrejacom" class="social-icon">
-                    <img src="img/icons/twitter-wrap.png" alt="Twitter Logo" >
-                </a>
-                <a href="https://www.facebook.com/cigreja" class="social-icon"> 
-                    <img src="img/icons/facebook-wrap.png" alt="Facebook Logo" >
-                </a>
-                <p>&copy; 2015 Carlos Igreja</p>
-            </footer>
-        </div>
+    </section>
 
-        <!-- JQuery and Javascript -->
-        <script src="js/jquery-3.2.1.min.js" ></script>
-        <script src="js/bootstrap.min.js" ></script>
+    <section id="secondary">
+        <h3>Contact Details</h3>
+        <ul class="contact-info">
+            <!-- I blocked out the phone number, I don't want phone calls -->
+            <!-- <li class="phone"><a href="tel:555-6426">555-6426</a></li> -->
+            <li class="mail"><a href="mailto:cigreja@live.com">cigreja@live.com</a></li>
+            <li class="twitter"><a href="https://twitter.com/CarlosAIgreja">@cigrejacom</a></li>
+        </ul>
+    </section>
 
-    </body>
-</html>
+<?php
+include 'includes/footer.php';
+?>
