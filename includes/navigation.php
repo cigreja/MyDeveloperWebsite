@@ -30,7 +30,6 @@ $contact = ($page == "contact.php")?"active":"";
                 <li class="<?php echo $projects; ?>"><a href="projects.php">Projects</a></li>
                 <li class="<?php echo $about; ?>"><a href="about.php"  >About</a></li>
                 <li class="<?php echo $contact; ?>"><a href="contact.php">Contact</a></li>
-
             </ul>
         </div>
     </div>

@@ -158,33 +158,7 @@ WRAPPER
 }
 
 
-/***********************************
-SECTION - PROJECTS
-*************************************/
 
-/* section ul = gallery */
-
-#gallery {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-#gallery li {
-    float: left;                     /* the items float left side by side  */
-    width: 45%;                      /* will fill 45 % of parent width  */
-    margin: 2.5%;                    /* fill space around items 10% (2 items)  */
-    background-color: ghostwhite;       /* bg color ?  */
-    color: black;                    /* text color ?  */
-}
-
-#gallery li a p {
-    margin: 0;                   /*  margin  */
-    padding: 5%;                   /*  padding  */
-    font-size: 0.75em;                   /*  font size */
-    color: black;                   /*  color  */
-    
-}
 
 /***********************************
 FOOTER
