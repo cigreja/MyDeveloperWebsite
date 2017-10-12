@@ -1,0 +1,92 @@
+.project-intro {
+  width: 100%;
+  margin: 10px 10px;
+  padding: 10px 10px;
+  font-family: "Old English Text MT", "Curlz MT";
+  font-size: 150%;
+  text-align: center;
+}
+.project-container {
+  width: 100%;
+  list-style: none;
+  display: inline;
+}
+.project-anchor {
+  height: 100%;
+  width: 100%;
+}
+.project-image {
+  width: 100%;
+}
+.project-description {
+  width: 100%;
+  text-align: center;
+  padding: 1% 1%;
+}
+.anchor-decoration a:link,
+.anchor-decoration a:visited,
+.anchor-decoration a:hover,
+.anchor-decoration a:active {
+  text-decoration: none;
+  color: #000;
+}
+.project-div-parent {
+  float: left;
+  padding: 1% 1%;
+  margin: 1% 1%;
+}
+.project-div-parent a:link,
+.project-div-parent a:visited,
+.project-div-parent a:hover,
+.project-div-parent a:active {
+  text-decoration: none;
+  color: #000;
+}
+/*      small    */
+@media (min-width: 0px) {
+  .project-div {
+    float: left;
+    padding: 1% 1%;
+    margin: 1% 1%;
+    width: 98%;
+  }
+  .project-div a:link,
+  .project-div a:visited,
+  .project-div a:hover,
+  .project-div a:active {
+    text-decoration: none;
+    color: #000;
+  }
+}
+/*     medium        */
+@media (min-width: 768px) {
+  .project-div {
+    float: left;
+    padding: 1% 1%;
+    margin: 1% 1%;
+    width: 48%;
+  }
+  .project-div a:link,
+  .project-div a:visited,
+  .project-div a:hover,
+  .project-div a:active {
+    text-decoration: none;
+    color: #000;
+  }
+}
+/*       large        */
+@media (min-width: 1200px) {
+  .project-div {
+    float: left;
+    padding: 1% 1%;
+    margin: 1% 1%;
+    width: 31.33333333%;
+  }
+  .project-div a:link,
+  .project-div a:visited,
+  .project-div a:hover,
+  .project-div a:active {
+    text-decoration: none;
+    color: #000;
+  }
+}

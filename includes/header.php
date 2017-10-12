@@ -19,27 +19,9 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="../css/bootswatch/cosmo.css">
 
-    <style type="text/css">
-
-        .brand-font {
-            font-family: "News Cycle", "Arial Narrow Bold", sans-serif, cursive;
-            font-size: 3em;
-        }
-
-        .header-logo {
-            font-family: "Franklin Gothic Heavy", cursive;
-            font-size: 1em;
-            background-image: url("../img/bg/heroMSCS.jpg");
-
-        }
-
-    </style>
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="../css/projects.css">
 
 </head>
 
 <body>
-
-
-<div class="header-logo" >
-    Carlos Igreja
-</div>

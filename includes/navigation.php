@@ -34,5 +34,3 @@ $contact = ($page == "contact.php")?"active":"";
         </div>
     </div>
 </nav>
-
-<div id="wrapper">
