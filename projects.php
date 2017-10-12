@@ -19,7 +19,8 @@ include 'includes/navigation.php';
             <img src="img/projects/C&Assembly2014PlaylistImage.png" alt=""
                  class="project-image">
             <div class="project-description">
-                C & Assembly (CodeWarrior & LBE Dragon 12 Plus) 2014 Playlist (4 Projects)
+                C & Assembly (CodeWarrior & LBE Dragon 12 Plus)
+                <br> 2014 Playlist (4 Projects)
             </div>
         </a>
     </li>
@@ -31,7 +32,8 @@ include 'includes/navigation.php';
             <img src="img/projects/CPP2013PlaylistImage.png" alt=""
                  class="project-image">
             <div class="project-description">
-                C++ Projects 2013 Playlist (12 Projects)
+                C++ Projects 2013 Playlist
+                <br> (12 Projects)
             </div>
         </a>
     </li>
@@ -43,7 +45,8 @@ include 'includes/navigation.php';
             <img src="img/projects/CPPDataStructure&Algorithms2014PlaylistImage.png" alt=""
                  class="project-image">
             <div class="project-description">
-                C++ Data Structures & Algorithms Playlist (19 Projects)
+                C++ Data Structures & Algorithms Playlist
+                <br> (19 Projects)
             </div>
         </a>
     </li>
@@ -55,7 +58,8 @@ include 'includes/navigation.php';
             <img src="img/projects/VB2013PlaylistImage.png" alt=""
                  class="project-image">
             <div class="project-description">
-                Visual Basic 2013 Playlist (10 Projects)
+                Visual Basic 2013 Playlist
+                <br> (10 Projects)
             </div>
         </a>
     </li>
@@ -67,7 +71,8 @@ include 'includes/navigation.php';
             <img src="img/projects/C_Sharp_Projects_2013_Playlist_Image.png" alt=""
                  class="project-image">
             <div class="project-description">
-                C# Projects 2013 Playlist (17 Projects)
+                C# Projects 2013 Playlist
+                <br> (17 Projects)
             </div>
         </a>
     </li>
@@ -79,7 +84,8 @@ include 'includes/navigation.php';
             <img src="img/projects/Java_Training_Projects_2016_Playlist.jpg" alt=""
                  class="project-image">
             <div class="project-description">
-                Java Training Projects 2016 Playlist (15 Projects)
+                Java Training Projects
+                <br> 2016 Playlist (15 Projects)
             </div>
         </a>
     </li>
@@ -91,7 +97,8 @@ include 'includes/navigation.php';
             <img src="img/projects/Mobile_Playlist_Image.png" alt=""
                  class="project-image">
             <div class="project-description">
-                Mobile Playlist (2 Projects)
+                Mobile Playlist
+                <br> (2 Projects)
             </div>
         </a>
     </li>
@@ -103,8 +110,8 @@ include 'includes/navigation.php';
             <img src="img/projects/PHPAutoPartsStoreProjectImage.png" alt=""
                  class="project-image">
             <div class="project-description">
-                Online Auto Parts Store. This is a video demo.
-                This application was done with HTML5, CSS3, JavaScript, PHP, and MySQL.
+                Online Auto Parts Store.
+                <br> HTML5, CSS3, JavaScript, PHP, and MySQL.
             </div>
         </a>
     </li>
