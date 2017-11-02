@@ -19,7 +19,7 @@ include 'includes/navigation.php';
             <img src="img/projects/C&Assembly2014PlaylistImage.png" alt=""
                  class="project-image">
             <div class="project-description">
-                C & Assembly (CodeWarrior & LBE Dragon 12 Plus)
+                C & Assembly
                 <br> 2014 Playlist (4 Projects)
             </div>
         </a>
@@ -32,8 +32,8 @@ include 'includes/navigation.php';
             <img src="img/projects/CPP2013PlaylistImage.png" alt=""
                  class="project-image">
             <div class="project-description">
-                C++ Projects 2013 Playlist
-                <br> (12 Projects)
+                C++ Projects 2013
+                <br>Playlist (12 Projects)
             </div>
         </a>
     </li>
@@ -45,8 +45,8 @@ include 'includes/navigation.php';
             <img src="img/projects/CPPDataStructure&Algorithms2014PlaylistImage.png" alt=""
                  class="project-image">
             <div class="project-description">
-                C++ Data Structures & Algorithms Playlist
-                <br> (19 Projects)
+                C++ Data Structures
+                <br>Playlist (19 Projects)
             </div>
         </a>
     </li>
@@ -58,8 +58,8 @@ include 'includes/navigation.php';
             <img src="img/projects/VB2013PlaylistImage.png" alt=""
                  class="project-image">
             <div class="project-description">
-                Visual Basic 2013 Playlist
-                <br> (10 Projects)
+                Visual Basic 2013
+                <br>Playlist (10 Projects)
             </div>
         </a>
     </li>
@@ -71,8 +71,8 @@ include 'includes/navigation.php';
             <img src="img/projects/C_Sharp_Projects_2013_Playlist_Image.png" alt=""
                  class="project-image">
             <div class="project-description">
-                C# Projects 2013 Playlist
-                <br> (17 Projects)
+                C# Projects 2013
+                <br>Playlist (17 Projects)
             </div>
         </a>
     </li>
@@ -97,8 +97,8 @@ include 'includes/navigation.php';
             <img src="img/projects/Mobile_Playlist_Image.png" alt=""
                  class="project-image">
             <div class="project-description">
-                Mobile Playlist
-                <br> (2 Projects)
+                Mobile
+                <br>Playlist (2 Projects)
             </div>
         </a>
     </li>
@@ -111,7 +111,7 @@ include 'includes/navigation.php';
                  class="project-image">
             <div class="project-description">
                 Online Auto Parts Store.
-                <br> HTML5, CSS3, JavaScript, PHP, and MySQL.
+                <br> HTML, CSS, JS, PHP, MySQL.
             </div>
         </a>
     </li>

@@ -8,7 +8,7 @@ include 'includes/navigation.php';
 
     <!-- Greeting  -->
     <div id="home-greeting">
-        <h3> Welcome </h3>
+        Welcome
     </div>
 
     <!-- Introduction  -->
@@ -33,16 +33,7 @@ include 'includes/navigation.php';
         </p>
     </div>
 
-    <!-- Slider or Feed of new projects from yt fb or twitter  -->
-    <div id="home-not-sure-slider-or-something">
-
-        <p>
-            Going to have my posts or something here !!
-        </p>
-    </div>
-
 </section>
-
 
 <?php
 include 'includes/footer.php';

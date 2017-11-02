@@ -7,9 +7,14 @@ $home = ($page == "index.php")?"active":"";
 $projects = ($page == "projects.php")?"active":"";
 $about = ($page == "about.php")?"active":"";
 $contact = ($page == "contact.php")?"active":"";
-
 ?>
 
+<!-- some header logo -->
+<div id="logo">
+    <div class="logo-my-name"> Carlos Igreja </div>
+    <div class="logo-developer"> Developer </div>
+    <br/>
+</div>
 
 <!-- bootstrap nav -->
 <nav class="navbar navbar-default">
@@ -21,12 +26,11 @@ $contact = ($page == "contact.php")?"active":"";
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand brand-font" href="index.php">Carlos Igreja</a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
-                <li class="<?php echo $home; ?>"><a href="index.php">Home</a></li>
+            <ul id="nav-bar-list" class="nav navbar-nav" >
+                <li class="<?php echo $home; ?>" style="font-family: 'Sedgwick Ave Display';"><a href="index.php">Home</a></li>
                 <li class="<?php echo $projects; ?>"><a href="projects.php">Projects</a></li>
                 <li class="<?php echo $about; ?>"><a href="about.php"  >About</a></li>
                 <li class="<?php echo $contact; ?>"><a href="contact.php">Contact</a></li>
@@ -34,3 +38,5 @@ $contact = ($page == "contact.php")?"active":"";
         </div>
     </div>
 </nav>
+
+

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="fonts/google-fonts-dev.css">
+    <title>Fonts Samples</title>
+</head>
+<body>
+
+<div id="output" style="font-size: 30px;"></div>
+
+<script>
+    var output = document.getElementById('output');
+    var fonts = [
+        "Bangers",
+        "Cabin Sketch",
+        "Monoton",
+        "Niconne",
+        "Parisienne",
+        "Playball",
+        "Rochester",
+        "Sedgwick Ave Display",
+        "Special Elite",
+        "Tangerine",
+        "Yesteryear",
+        "Bungee Inline",
+        "Bungee Shade",
+        "Faster One",
+        "Frijole",
+        "Graduate",
+        "IM Fell English SC",
+        "Katibeh",
+        "Londrina Outline",
+        "Love Ya Like A Sister",
+        "Pinyon Script",
+        "Raleway Dots",
+        "Rye",
+        "Sail",
+        "Sancreek",
+        "Shojumaru",
+        "Vast Shadow",
+        "Wallpoet",
+        "Wire One"
+    ];
+    for(var i = 0; i < fonts.length; i++){
+        var p = document.createElement("p");
+        p.style.fontFamily = fonts[i];
+        p.innerHTML = fonts[i];
+        output.appendChild(p);
+    }
+
+</script>
+
+</body>
+</html>

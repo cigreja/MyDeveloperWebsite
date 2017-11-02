@@ -1,0 +1,65 @@
+/********************************
+    The Contact page style sheet
+*********************************/
+
+@padding:2%;
+@margin:2%;
+
+.padding-and-margins{
+  padding:@padding @padding;
+  margin: @margin @margin;
+}
+
+.anchor-decoration {
+  a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: #000;
+  }
+}
+
+.contact-heading {
+  .padding-and-margins;
+  width:100%;
+}
+
+/********************************
+    The Primary Section
+*********************************/
+
+#contact-primary-section {
+  width:40%;
+  float:left;
+}
+
+#contact-info {
+  .padding-and-margins;
+  width:100%;
+  -ms-word-wrap: normal;
+  word-wrap: normal;
+}
+
+/********************************
+    The Secondary Section
+*********************************/
+
+#contact-secondary-section {
+  width:40%;
+  float:left;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+/********************************
+    The Contact Information
+*********************************/
+
+.contact-item {
+  .anchor-decoration;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.contact-item img{
+  width: 50px;
+  height:50px;
+}

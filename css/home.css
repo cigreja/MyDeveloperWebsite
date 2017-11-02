@@ -1,6 +1,6 @@
-/*
-    The home page style sheet
- */
+/********************************
+    The Home page style sheet
+*********************************/
 #home-greeting {
   text-align: center;
 }
@@ -9,4 +9,5 @@
 }
 #home-not-sure-slider-or-something {
   text-align: center;
+  width: 75%;
 }
