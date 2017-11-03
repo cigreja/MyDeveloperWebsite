@@ -9,3 +9,16 @@
 /*
     Navigation Bar
  */
+/*
+   these don't want to work here
+   I have the style in the nav php
+   They center the bootstrap nav items
+ */
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}

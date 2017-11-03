@@ -8,9 +8,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="../css/bootswatch/cosmo.css">
-
     <!-- Main CSS -->
     <link rel="stylesheet" href="../css/main.css">
 

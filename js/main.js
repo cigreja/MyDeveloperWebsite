@@ -11,12 +11,7 @@ window.onload = function () {
     for (var i = 0; i < footerSocialIcons.length; i++) {
 
         var icon = footerSocialIcons[i];
-        console.log(icon);
-        icon.onmouseover = function (event) {
-            event.target.style.marginTop = '-50px';
-        };
-        icon.onmouseout = function (event) {
-            event.target.style.marginTop = '0px';
-        };
+        icon.onmouseover = function (event) {event.target.style.marginTop = '-50px';};
+        icon.onmouseout = function (event) {event.target.style.marginTop = '0px';};
     };
-}
+};

@@ -16,7 +16,6 @@ $contact = ($page == "contact.php")?"active":"";
     <br/>
 </div>
 
-<!-- bootstrap nav  TODO: Center list items -->
 <nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -27,6 +26,19 @@ $contact = ($page == "contact.php")?"active":"";
                 <span class="icon-bar"></span>
             </button>
         </div>
+
+        <!-- center nav bar items -->
+        <style>
+            .navbar .navbar-nav {
+                display: inline-block;
+                float: none;
+                vertical-align: top;
+            }
+
+            .navbar .navbar-collapse {
+                text-align: center;
+            }
+        </style>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul id="nav-bar-list" class="nav navbar-nav" >
