@@ -16,7 +16,7 @@ $contact = ($page == "contact.php")?"active":"";
     <br/>
 </div>
 
-<!-- bootstrap nav -->
+<!-- bootstrap nav  TODO: Center list items -->
 <nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
